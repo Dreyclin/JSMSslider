@@ -1,0 +1,10 @@
+.ms-slider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ms-slider img {
+    max-width: 300px;
+    max-height: 300px;
+}
